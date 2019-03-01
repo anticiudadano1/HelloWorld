@@ -11,6 +11,7 @@ public class HelloWorld {
 		
 		System.out.println("3 cambio - Eclipse");
 
+		System.out.println("3 cambio - Consola");
 	}
 
 }
